@@ -68,7 +68,7 @@ education:
     summary: |
       GPA: 3.9/4.0
       - Graduated magna cum laude 
-      -Dean’s List, Fall 2018 – Spring 2021
+      - Dean’s List, Fall 2018 – Spring 2021
 work:
   - position: Scientific Associate
     company_name: D.E. Shaw Research
@@ -76,11 +76,11 @@ work:
     company_logo: ''
     date_start: 2021-06-01
     date_end: 2023-08-30
-    summary: |2-
-    Advised by Dr. Qi Wang. 
+    summary: |
     Responsibilities include: 
     - Computed high-throughput screens on supercomputer to triage ligands for drug discovery using molecular dynamics simulations, free energy perturbation, and other associated tools
     -	Conducted investigations into nucleic acid-protein interactions in systems like CRISPR-Cas9 through long-timescale, large-scale molecular dynamics simulations
+    - Advised by Dr. Qi Wang
  
   - position: Undergraduate Researcher
     company_name: Columbia University Banta Lab
