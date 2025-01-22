@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Virginia Jiang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Virginia 
+last_name: Jiang
 
 # Status emoji
 status:
@@ -20,92 +20,79 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Princeton University Dept. of Chemical and Biological Engineering
+    url: https://cbe.princeton.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:virginia.jiang@princeton.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/v-jiang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/virginia-jiang-07a81a157
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=7OS1-yEAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Protein and Metabolic Engineering
+  - Biomolecular Condensates
+  - Molecular Simulation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - area: PhD Chemical and Biological Engineering
+    institution: Princeton University
+    date_start: 2023-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    summary: |
+      Thesis on _Engineering protein condensates as microreactors_. Supervised by [Prof Jerelle Joseph](https://josephgroup.princeton.edu/) and [Prof José Avalos] (https://jlagroup.scholar.princeton.edu/). 
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: BS Chemical Engineering
+    institution: Columbia University
+    date_start: 2017-09-01
+    date_end: 2021-05-31
+    summary: |
+      GPA: 3.9/4.0
+      - Graduated magna cum laude 
+      -Dean’s List, Fall 2018 – Spring 2021
+work:
+  - position: Scientific Associate
+    company_name: D.E. Shaw Research
+    company_url: 'https://www.deshawresearch.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2023-08-30
+    summary: |2-
+    Advised by Dr. Qi Wang. 
+    Responsibilities include: 
+    - Computed high-throughput screens on supercomputer to triage ligands for drug discovery using molecular dynamics simulations, free energy perturbation, and other associated tools
+    -	Conducted investigations into nucleic acid-protein interactions in systems like CRISPR-Cas9 through long-timescale, large-scale molecular dynamics simulations
+ 
+  - position: Undergraduate Researcher
+    company_name: Columbia University Banta Lab
+    company_url: 'https://bantalab.cheme.columbia.edu/'
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2021-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed modeling pipeline for transmembrane and membrane-embedded proteins that act as a biological wire to create self-regenerating batteries from iron
+      - Managed team of undergrads to design molecular binding interfaces for protein purifications
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,14 +103,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Metabolic Engineering
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Protein Design
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: Protein_monochrome.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -146,7 +133,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -154,33 +141,22 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Graduate Research Fellowship
+ #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-09-01'
+    awarder: National Science Foundation
+    icon: GRFP_logo.png
+    #summary: |
+    #  Graduate research fellowship
+  - title: Tau Beta Pi Fellowship
+    #url: 
+    date: '2020-09-01'
+    awarder: Tau Beta Pi
+    #icon: edx
+    #summary: |
+    #  Learned:
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Virginia is a PhD candidate in Chemical and Biological Engineering coadvised by Jerelle Joseph and José Avalos. who received an undergraduate degree in Chemical Engineering at Columbia University in 2021. Prior to starting at Princeton, Virginia worked as a scientific associate in drug discovery at D.E. Shaw Research. They are interested in modeling biomolecular condensates to modulate reaction rates for metabolic engineering. Outside of lab, Virginia enjoys hiking, trying new food, and crafting toys for cats.

@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/20250122_jiangv_cv.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+       I'm a PhD student at Princeton University! I'm interested in understanding what drives protein structure (or lack thereof!) and how that impacts enzyme activity. 
+  
+        I use a range of in silico, in vitro, and in vivo techniques to explore engineering biological systems.
         
         Please reach out to collaborate 😃
     design:
