@@ -77,10 +77,10 @@ work:
     date_start: 2021-06-01
     date_end: 2023-08-30
     summary: |
-    Responsibilities include: 
-    - Computed high-throughput screens on supercomputer to triage ligands for drug discovery using molecular dynamics simulations, free energy perturbation, and other associated tools
-    -	Conducted investigations into nucleic acid-protein interactions in systems like CRISPR-Cas9 through long-timescale, large-scale molecular dynamics simulations
-    - Advised by Dr. Qi Wang
+      Responsibilities include: 
+      - Computed high-throughput screens on supercomputer to triage ligands for drug discovery using molecular dynamics simulations, free energy perturbation, and other associated tools
+      -	Conducted investigations into nucleic acid-protein interactions in systems like CRISPR-Cas9 through long-timescale, large-scale molecular dynamics simulations
+      - Advised by Dr. Qi Wang
  
   - position: Undergraduate Researcher
     company_name: Columbia University Banta Lab
@@ -92,7 +92,6 @@ work:
       Responsibilities include:
       - Developed modeling pipeline for transmembrane and membrane-embedded proteins that act as a biological wire to create self-regenerating batteries from iron
       - Managed team of undergrads to design molecular binding interfaces for protein purifications
- 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
