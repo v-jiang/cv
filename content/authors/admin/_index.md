@@ -109,7 +109,7 @@ skills:
       - name: Protein Design
         description: ''
         percent: 40
-        icon: 'icons/Protein_monochrome.svg'
+        icon: 'Protein_monochrome.svg'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,7 +144,7 @@ awards:
  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-09-01'
     awarder: National Science Foundation
-    icon: 'icons/GRFP_logo.png'
+    icon: 'GRFP_logo.png'
     #summary: |
     #  Graduate research fellowship
   - title: Tau Beta Pi Fellowship
