@@ -34,7 +34,7 @@ featured: true
 
 links:
 - name: Link to Preprint
-  url: https://www.biorxiv.org/content/10.1101/2024.09.14.613025v1
+- url: https://www.biorxiv.org/content/10.1101/2024.09.14.613025v1
 url_pdf: ''
 url_code: ''
 url_dataset: '#'

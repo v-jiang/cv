@@ -35,7 +35,7 @@ tags:
 
 featured: false
 
-# links:
+links:
 - name: "Link to Paper"
 - url: "https://pubs.acs.org/doi/full/10.1021/jacsau.4c00296"
 url_pdf: ''

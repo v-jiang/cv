@@ -42,10 +42,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Link to Paper
 - url: https://www.sciencedirect.com/science/article/pii/S2214030121000134
-
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
