@@ -47,7 +47,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.biorxiv.org/content/biorxiv/early/2024/09/14/2024.09.14.613025/F6.medium.gif)'
+  caption: 'Computational modeling(https://www.biorxiv.org/content/biorxiv/early/2024/09/14/2024.09.14.613025/F6.medium.gif)'
   focal_point: ""
   preview_only: false
 
