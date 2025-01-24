@@ -1,13 +1,15 @@
 ---
-title: "An example journal article"
+title: "Overexpression of a Designed Mutant Oxyanion Binding Protein ModA/WtpA in Acidithiobacillus ferrooxidans for the Low pH Recovery of Molybdenum and Rhenium"
 authors:
+- Heejung Jung
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Zihang Su
+- Farid Khoury
+- Yuta Inaba
+- Scott Banta
+
+date: "2023-07-14T00:00:00Z"
+doi: "https://doi.org/10.1021/jacsau.4c00296"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,23 +20,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "JACS AU"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We identified and characterized a molybdenum/tungsten transport protein (ModA/WtpA) of Acidithiobacillus ferrooxidans and demonstrated the binding of tungstate, molybdate, and chromate. We used computational design to expand the binding capabilities of the protein to include perrhenate. A disulfide bond was engineered into the binding pocket of ModA/WtpA to introduce a more favorable geometric coordination and surface charge distribution for oxyanion binding. The mutant protein experimentally demonstrated a 2-fold higher binding affinity for molybdate and 6-fold higher affinity for perrhenate. The overexpression of the wild-type and mutant ModA/WtpA proteins in A. ferrooxidans cells enhanced the innate tungstate, molybdate, and chromate binding capacities of the cells to up to 2-fold higher. In addition, the engineered cells expressing the mutant protein exhibited enhanced perrhenate binding, showing 5-fold and 2-fold higher binding capacities compared to the wild-type and ModA/WtpA-overexpressing cells, respectively. Furthermore, the engineered cell lines enhanced biocorrosion of stainless steel as well as the recovered valuable metals from an acidic wastewater generated from molybdenite processing. The improved binding efficiency for the oxyanion metals, along with the high selectivity over nontargeted metals under mixed metal environments, highlights the potential value of the engineered strains for practical microbial metal reclamation under low pH conditions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Rhenium and molybdenum are critically important metals, but mining is bad for the environment. Using engineered microbes, we can extract these rare earth metals from alternative sources like e-waste.
 
 tags:
-- Source Themes
+- Rosetta
+- Protein Engineering
+- Metabolic Engineering
+
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: "Link to Paper"
+- url: "https://pubs.acs.org/doi/full/10.1021/jacsau.4c00296"
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Graphical Abstract (https://pubs.acs.org/cms/10.1021/jacsau.4c00296/asset/images/medium/au4c00296_0006.gif'
   focal_point: ""
   preview_only: false
 
@@ -61,15 +66,4 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+slides: ''

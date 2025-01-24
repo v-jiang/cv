@@ -1,8 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Maltodextrin Transport in the Extremely Thermophilic, Lignocellulose Degrading Bacterium Anaerocellum bescii"
 authors:
+- Hansen Tjo
 - admin
-date: "2019-04-07T00:00:00Z"
+- Jerelle Joseph
+- Jonathan Conway
+date: "2024-09-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,21 +20,23 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Here, we reveal the biophysical and structural basis for oligosaccharide transport by two maltodextrin ABC transporters in A. bescii. This is the first biophysical characterization of carbohydrate uptake in this organism and establishes a workflow for characterizing other oligosaccharide transporters in A. bescii and similar lignocellulosic thermophiles of interest for lignocellulosic bioprocessing. By deciphering the mechanisms underlying high affinity sugar uptake in A. bescii, we shed light on an underexplored step between extracellular lignocellulose degradation and intracellular conversion of sugars to metabolic products. This understanding will expand opportunities for harnessing sugar transport in thermophiles to reshape lignocellulose bioprocessing as part of a renewable bioeconomy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Understanding the mechanism for maltose transport can help engineer thermophilic organisms for biofuel production!
 
 tags:
-- Large Language Models
+- Protein Engineering
+- Rosetta
+- Structural Modeling
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: Link to Preprint
+  url: https://www.biorxiv.org/content/10.1101/2024.09.14.613025v1
+url_pdf: ''
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +47,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://www.biorxiv.org/content/biorxiv/early/2024/09/14/2024.09.14.613025/F6.medium.gif)'
   focal_point: ""
   preview_only: false
 
@@ -52,20 +57,21 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- conway-projects
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
+slides: ''
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+---
+
+This work is driven by the results in my [previous paper](/publication/conference-paper/) on Rosetta for structural modeling.
+
