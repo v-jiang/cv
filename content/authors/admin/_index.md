@@ -57,7 +57,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Thesis on _Engineering protein condensates as microreactors_. Supervised by [Prof Jerelle Joseph](https://josephgroup.princeton.edu/) and [Prof José Avalos] (https://jlagroup.scholar.princeton.edu/). 
+      Thesis on _Engineering protein condensates as microreactors_. Supervised by [Prof Jerelle Joseph](https://josephgroup.princeton.edu/) and [Prof José Avalos](https://jlagroup.scholar.princeton.edu/). 
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -109,7 +109,7 @@ skills:
       - name: Protein Design
         description: ''
         percent: 40
-        icon: 'Protein_monochrome.svg'
+        icon: 🧬
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,13 +144,14 @@ awards:
  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-09-01'
     awarder: National Science Foundation
-    icon: 'GRFP_logo.png'
+    icon: 💰
     #summary: |
     #  Graduate research fellowship
   - title: Tau Beta Pi Fellowship
     #url: 
     date: '2020-09-01'
     awarder: Tau Beta Pi
+    icon: 💰
     #icon: edx
     #summary: |
     #  Learned:
