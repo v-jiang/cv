@@ -159,4 +159,4 @@ awards:
 
 ## About Me
 
-Virginia is a PhD candidate in Chemical and Biological Engineering coadvised by Jerelle Joseph and José Avalos. who received an undergraduate degree in Chemical Engineering at Columbia University in 2021. Prior to starting at Princeton, Virginia worked as a scientific associate in drug discovery at D.E. Shaw Research. They are interested in modeling biomolecular condensates to modulate reaction rates for metabolic engineering. Outside of lab, Virginia enjoys hiking, trying new food, and crafting toys for cats.
+Virginia is a PhD candidate in Chemical and Biological Engineering coadvised by Jerelle Joseph and José Avalos, researching modeling biomolecular condensates to modulate reaction rates for metabolic engineering. Virginia received an undergraduate degree in Chemical Engineering at Columbia University in 2021. Prior to starting at Princeton, Virginia worked as a scientific associate in drug discovery at D.E. Shaw Research. Outside of lab, Virginia enjoys hiking, trying new food, and crafting toys for cats.
